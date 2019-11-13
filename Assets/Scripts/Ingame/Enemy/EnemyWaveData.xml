@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<EnemyWaveDatas>
+	<EnemyWaveData waveNo = "1">
+		<type>KingdomKnight</type>
+		<spawnPosition>4</spawnPosition>
+		<tagName>Enemy</tagName>
+		<amount>1</amount>
+		<MS>1</MS>
+		<AD>1</AD>
+		<HP>10</HP>
+	</EnemyWaveData>
+	<EnemyWaveData waveNo = "1">
+		<type>KingdomKnight</type>
+		<spawnPosition>4</spawnPosition>
+		<tagName>Enemy</tagName>
+		<amount>1</amount>
+		<MS>10</MS>
+		<AD>3</AD>
+		<HP>20</HP>
+	</EnemyWaveData>
+
+  <EnemyWaveData waveNo = "1">
+    <type>KingdomKnight</type>
+    <spawnPosition>4</spawnPosition>
+    <tagName>Enemy</tagName>
+    <amount>1</amount>
+    <MS>7</MS>
+    <AD>3</AD>
+    <HP>20</HP>
+  </EnemyWaveData>
+  
+  <EnemyWaveData waveNo = "1">
+    <type>KingdomKnight</type>
+    <spawnPosition>5</spawnPosition>
+    <tagName>Enemy</tagName>
+    <amount>1</amount>
+    <MS>5</MS>
+    <AD>3</AD>
+    <HP>30</HP>
+  </EnemyWaveData>
+  <EnemyWaveData waveNo = "1">
+    <type>KingdomKnight</type>
+    <spawnPosition>5</spawnPosition>
+    <tagName>Enemy</tagName>
+    <amount>1</amount>
+    <MS>5</MS>
+    <AD>3</AD>
+    <HP>30</HP>
+  </EnemyWaveData>
+  
+
+  <EnemyWaveData waveNo="2">
+    <type>KingdomKnight</type>
+    <spawnPosition>4</spawnPosition>
+    <tagName>Boss</tagName>
+    <amount>1</amount>
+    <MS>3</MS>
+    <AD>3</AD>
+    <HP>30</HP> 
+     
+  </EnemyWaveData>
+  <EnemyWaveData waveNo="2">
+    <type>KingdomKnight</type>
+    <spawnPosition>5</spawnPosition>
+    <tagName>Boss</tagName>
+    <amount>1</amount>
+    <MS>3</MS>
+    <AD>3</AD>
+    <HP>30</HP>
+
+  </EnemyWaveData>
+
+</EnemyWaveDatas>

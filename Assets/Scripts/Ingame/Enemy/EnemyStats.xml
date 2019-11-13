@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Character>
+  <Knight>
+    <stats>
+      <HP>1000</HP>
+      <AttackDamage>78</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <HitTime>1</HitTime>
+      <Range>1</Range>
+    </stats>
+  </Knight>
+  <Magic>
+    <stats>
+      <HP>2000</HP>
+      <AttackDamage>800</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <HitTime>1</HitTime>
+      <Range>1</Range>
+    </stats>
+   </Magic>
+  <Boss>
+    <stats>
+      <HP>9999</HP>
+      <AttackDamage>99999</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <HitTime>1</HitTime>
+      <Range>1</Range>
+    </stats>
+  </Boss>
+  
+  
+  
+</Character>

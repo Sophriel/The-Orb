@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Character>
+
+  <Tanker>
+    
+    <Low>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>1.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <MaxCount>8</MaxCount>     
+    </Low>
+
+    <Common>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>1.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Common>
+
+    <Rear>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>1.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Rear>
+
+    <Unique>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>1.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Unique>
+
+  </Tanker>
+
+
+  <Dealer>
+    
+    <Low>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>2.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.0</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Low>
+
+    <Common>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>2.5</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>3.0</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Common>
+
+    <Rear>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>3.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>6.0</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Rear>
+
+    <Unique>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>4.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>10.0</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Unique>
+
+  </Dealer>
+
+
+  <Healer>
+    
+    <Low>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>1.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Low>
+
+    <Common>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>1.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Common>
+
+    <Rear>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>1.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Rear>
+
+    <Unique>
+      <MaxHP>150</MaxHP>
+      <HitTime>0.5</HitTime>
+      <Range>1.0</Range>
+      <AttackDamage>30</AttackDamage>
+      <AttackSpeed>1.2</AttackSpeed>
+      <MaxCount>8</MaxCount>
+    </Unique>
+
+  </Healer>
+
+</Character>

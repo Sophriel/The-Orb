@@ -1,0 +1,104 @@
+
+왕국군 스파인.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 286, 374
+  size: 368, 625
+  orig: 1050, 867
+  offset: 353, 0
+  index: -1
+head
+  rotate: true
+  xy: 940, 362
+  size: 205, 245
+  orig: 207, 275
+  offset: 1, 1
+  index: -1
+larm
+  rotate: false
+  xy: 1860, 776
+  size: 182, 223
+  orig: 182, 282
+  offset: 0, 1
+  index: -1
+lfoot fix
+  rotate: false
+  xy: 148, 8
+  size: 144, 145
+  orig: 160, 162
+  offset: 15, 17
+  index: -1
+lleg fix
+  rotate: true
+  xy: 1287, 827
+  size: 172, 571
+  orig: 229, 623
+  offset: 23, 32
+  index: -1
+rarm
+  rotate: false
+  xy: 940, 569
+  size: 345, 430
+  orig: 346, 437
+  offset: 0, 7
+  index: -1
+rarmor1
+  rotate: false
+  xy: 1631, 579
+  size: 214, 246
+  orig: 214, 258
+  offset: 0, 9
+  index: -1
+rarmor2
+  rotate: false
+  xy: 1847, 671
+  size: 130, 103
+  orig: 136, 105
+  offset: 0, 2
+  index: -1
+rarmor3
+  rotate: true
+  xy: 1187, 450
+  size: 117, 84
+  orig: 117, 104
+  offset: 0, 10
+  index: -1
+rfoot fix
+  rotate: false
+  xy: 2, 2
+  size: 144, 151
+  orig: 159, 162
+  offset: 15, 11
+  index: -1
+rleg fix
+  rotate: true
+  xy: 286, 187
+  size: 185, 579
+  orig: 229, 622
+  offset: 0, 30
+  index: -1
+shild
+  rotate: false
+  xy: 656, 374
+  size: 282, 625
+  orig: 344, 633
+  offset: 62, 0
+  index: -1
+sword
+  rotate: false
+  xy: 2, 155
+  size: 282, 844
+  orig: 282, 872
+  offset: 0, 0
+  index: -1
+swordhome
+  rotate: true
+  xy: 1287, 557
+  size: 268, 342
+  orig: 278, 346
+  offset: 6, 4
+  index: -1

@@ -1,0 +1,111 @@
+﻿
+탱커.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+머리
+  rotate: false
+  xy: 2675, 1003
+  size: 218, 317
+  orig: 959, 907
+  offset: 456, 558
+  index: -1
+몸통
+  rotate: false
+  xy: 2842, 1409
+  size: 560, 637
+  orig: 1077, 1468
+  offset: 380, 713
+  index: -1
+무기
+  rotate: true
+  xy: 1111, 521
+  size: 198, 239
+  orig: 832, 1315
+  offset: 78, 773
+  index: -1
+무기 1
+  rotate: true
+  xy: 3404, 1507
+  size: 539, 646
+  orig: 540, 646
+  offset: 1, 0
+  index: -1
+무기 복사
+  rotate: false
+  xy: 1111, 1066
+  size: 1146, 980
+  orig: 1190, 980
+  offset: 22, 0
+  index: -1
+오른다리
+  rotate: false
+  xy: 2895, 1055
+  size: 308, 352
+  orig: 625, 802
+  offset: 69, 450
+  index: -1
+오른다리 위
+  rotate: false
+  xy: 3205, 1155
+  size: 241, 252
+  orig: 930, 1219
+  offset: 214, 659
+  index: -1
+오른팔 갑주
+  rotate: true
+  xy: 909, 2
+  size: 174, 321
+  orig: 1077, 1468
+  offset: 303, 989
+  index: -1
+오른팔 복사
+  rotate: true
+  xy: 1111, 721
+  size: 343, 502
+  orig: 1077, 1468
+  offset: 333, 866
+  index: -1
+왼다리
+  rotate: true
+  xy: 2259, 1008
+  size: 312, 414
+  orig: 872, 1447
+  offset: 386, 426
+  index: -1
+왼다리 위
+  rotate: true
+  xy: 1615, 796
+  size: 268, 477
+  orig: 357, 847
+  offset: 4, 104
+  index: -1
+왼팔
+  rotate: true
+  xy: 2, 117
+  size: 480, 905
+  orig: 1130, 1447
+  offset: 650, 359
+  index: -1
+왼팔 갑주
+  rotate: false
+  xy: 2, 599
+  size: 1107, 1447
+  orig: 1130, 1447
+  offset: 21, 0
+  index: -1
+천
+  rotate: false
+  xy: 909, 178
+  size: 187, 419
+  orig: 1026, 1322
+  offset: 479, 375
+  index: -1
+흉갑
+  rotate: false
+  xy: 2259, 1322
+  size: 581, 724
+  orig: 1077, 1455
+  offset: 361, 629
+  index: -1

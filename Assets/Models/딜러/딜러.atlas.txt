@@ -1,0 +1,437 @@
+
+딜러.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+R hand
+  rotate: true
+  xy: 1498, 1709
+  size: 269, 493
+  orig: 690, 530
+  offset: 2, 37
+  index: -1
+arrow
+  rotate: true
+  xy: 575, 1257
+  size: 269, 963
+  orig: 269, 963
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 674
+  size: 571, 852
+  orig: 982, 1498
+  offset: 410, 588
+  index: -1
+bow
+  rotate: false
+  xy: 2, 1528
+  size: 1494, 450
+  orig: 1494, 551
+  offset: 0, 40
+  index: -1
+hat
+  rotate: false
+  xy: 269, 284
+  size: 243, 388
+  orig: 243, 493
+  offset: 0, 72
+  index: -1
+head
+  rotate: true
+  xy: 1732, 1548
+  size: 159, 235
+  orig: 159, 235
+  offset: 0, 0
+  index: -1
+l arm
+  rotate: false
+  xy: 575, 860
+  size: 285, 395
+  orig: 291, 483
+  offset: 6, 30
+  index: -1
+l leg
+  rotate: false
+  xy: 1180, 939
+  size: 282, 316
+  orig: 311, 342
+  offset: 29, 26
+  index: -1
+larm0
+  rotate: true
+  xy: 1498, 1537
+  size: 170, 232
+  orig: 170, 245
+  offset: 0, 0
+  index: -1
+r arm
+  rotate: false
+  xy: 862, 921
+  size: 316, 334
+  orig: 336, 351
+  offset: 6, 0
+  index: -1
+r leg
+  rotate: false
+  xy: 2, 2
+  size: 265, 670
+  orig: 282, 675
+  offset: 5, 5
+  index: -1
+rarm0
+  rotate: true
+  xy: 269, 17
+  size: 265, 251
+  orig: 273, 251
+  offset: 2, 0
+  index: -1
+rarm1
+  rotate: false
+  xy: 575, 697
+  size: 234, 161
+  orig: 234, 161
+  offset: 0, 0
+  index: -1
+rarm2
+  rotate: true
+  xy: 1540, 1319
+  size: 216, 148
+  orig: 216, 148
+  offset: 0, 0
+  index: -1
+rarm3
+  rotate: true
+  xy: 1464, 1066
+  size: 189, 157
+  orig: 222, 157
+  offset: 0, 0
+  index: -1
+
+딜러2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Low/R hand
+  rotate: true
+  xy: 1498, 1709
+  size: 269, 493
+  orig: 690, 530
+  offset: 2, 37
+  index: -1
+Low/arrow
+  rotate: true
+  xy: 575, 1257
+  size: 269, 963
+  orig: 269, 963
+  offset: 0, 0
+  index: -1
+Low/body
+  rotate: false
+  xy: 2, 674
+  size: 571, 852
+  orig: 982, 1498
+  offset: 410, 588
+  index: -1
+Low/bow
+  rotate: false
+  xy: 2, 1528
+  size: 1494, 450
+  orig: 1494, 551
+  offset: 0, 40
+  index: -1
+Low/head
+  rotate: false
+  xy: 269, 101
+  size: 191, 253
+  orig: 210, 253
+  offset: 0, 0
+  index: -1
+Low/l arm
+  rotate: false
+  xy: 575, 860
+  size: 285, 395
+  orig: 291, 483
+  offset: 6, 30
+  index: -1
+Low/l leg
+  rotate: false
+  xy: 269, 356
+  size: 282, 316
+  orig: 311, 342
+  offset: 29, 26
+  index: -1
+Low/larm0
+  rotate: true
+  xy: 575, 676
+  size: 182, 186
+  orig: 182, 186
+  offset: 0, 0
+  index: -1
+Low/r arm
+  rotate: false
+  xy: 862, 921
+  size: 316, 334
+  orig: 336, 351
+  offset: 6, 0
+  index: -1
+Low/r leg
+  rotate: false
+  xy: 2, 2
+  size: 265, 670
+  orig: 282, 675
+  offset: 5, 5
+  index: -1
+Low/rarm0
+  rotate: false
+  xy: 1180, 1004
+  size: 265, 251
+  orig: 273, 251
+  offset: 2, 0
+  index: -1
+Low/rarm1
+  rotate: false
+  xy: 1498, 1546
+  size: 231, 161
+  orig: 231, 161
+  offset: 0, 0
+  index: -1
+Low/rarm2
+  rotate: true
+  xy: 1540, 1352
+  size: 192, 148
+  orig: 192, 148
+  offset: 0, 0
+  index: -1
+Low/rarm3
+  rotate: false
+  xy: 1731, 1550
+  size: 189, 157
+  orig: 222, 157
+  offset: 0, 0
+  index: -1
+
+딜러3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rear/R hand
+  rotate: false
+  xy: 2, 2
+  size: 269, 493
+  orig: 690, 530
+  offset: 2, 37
+  index: -1
+Rear/arrow
+  rotate: true
+  xy: 576, 1018
+  size: 299, 1060
+  orig: 299, 1088
+  offset: 0, 28
+  index: -1
+Rear/body
+  rotate: false
+  xy: 2, 497
+  size: 572, 820
+  orig: 1118, 1498
+  offset: 406, 592
+  index: -1
+Rear/bow
+  rotate: false
+  xy: 2, 1319
+  size: 1482, 674
+  orig: 1494, 731
+  offset: 12, 0
+  index: -1
+Rear/hat
+  rotate: false
+  xy: 576, 510
+  size: 243, 506
+  orig: 243, 537
+  offset: 0, 2
+  index: -1
+Rear/head
+  rotate: true
+  xy: 273, 18
+  size: 159, 235
+  orig: 159, 235
+  offset: 0, 0
+  index: -1
+Rear/l arm
+  rotate: false
+  xy: 1753, 1598
+  size: 285, 395
+  orig: 291, 483
+  offset: 6, 30
+  index: -1
+Rear/l leg
+  rotate: false
+  xy: 273, 179
+  size: 282, 316
+  orig: 311, 342
+  offset: 29, 26
+  index: -1
+Rear/larm0
+  rotate: true
+  xy: 821, 510
+  size: 170, 254
+  orig: 170, 272
+  offset: 0, 0
+  index: -1
+Rear/r arm
+  rotate: false
+  xy: 821, 682
+  size: 316, 334
+  orig: 336, 351
+  offset: 6, 0
+  index: -1
+Rear/r leg
+  rotate: false
+  xy: 1486, 1323
+  size: 265, 670
+  orig: 282, 675
+  offset: 5, 5
+  index: -1
+Rear/rarm0
+  rotate: false
+  xy: 1753, 1345
+  size: 265, 251
+  orig: 273, 251
+  offset: 2, 0
+  index: -1
+Rear/rarm1
+  rotate: false
+  xy: 1139, 855
+  size: 234, 161
+  orig: 234, 161
+  offset: 0, 0
+  index: -1
+Rear/rarm2
+  rotate: false
+  xy: 1139, 705
+  size: 216, 148
+  orig: 216, 148
+  offset: 0, 0
+  index: -1
+Rear/rarm3
+  rotate: false
+  xy: 1375, 859
+  size: 189, 157
+  orig: 222, 157
+  offset: 0, 0
+  index: -1
+
+딜러4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Unique/R hand
+  rotate: false
+  xy: 2, 2
+  size: 269, 493
+  orig: 690, 530
+  offset: 2, 37
+  index: -1
+Unique/arrow
+  rotate: true
+  xy: 576, 1049
+  size: 299, 1060
+  orig: 299, 1088
+  offset: 0, 28
+  index: -1
+Unique/body
+  rotate: false
+  xy: 2, 497
+  size: 572, 851
+  orig: 1118, 1498
+  offset: 406, 561
+  index: -1
+Unique/bow
+  rotate: false
+  xy: 2, 1350
+  size: 1482, 674
+  orig: 1494, 731
+  offset: 12, 0
+  index: -1
+Unique/hat
+  rotate: false
+  xy: 576, 535
+  size: 243, 512
+  orig: 243, 543
+  offset: 0, 2
+  index: -1
+Unique/head
+  rotate: false
+  xy: 1463, 812
+  size: 159, 235
+  orig: 159, 235
+  offset: 0, 0
+  index: -1
+Unique/l arm
+  rotate: false
+  xy: 1753, 1629
+  size: 285, 395
+  orig: 291, 483
+  offset: 6, 30
+  index: -1
+Unique/l leg
+  rotate: false
+  xy: 273, 179
+  size: 282, 316
+  orig: 311, 342
+  offset: 29, 26
+  index: -1
+Unique/larm0
+  rotate: true
+  xy: 821, 541
+  size: 170, 254
+  orig: 170, 272
+  offset: 0, 0
+  index: -1
+Unique/r arm
+  rotate: false
+  xy: 821, 713
+  size: 316, 334
+  orig: 336, 351
+  offset: 6, 0
+  index: -1
+Unique/r leg
+  rotate: false
+  xy: 1486, 1354
+  size: 265, 670
+  orig: 282, 675
+  offset: 5, 5
+  index: -1
+Unique/rarm0
+  rotate: false
+  xy: 1139, 726
+  size: 322, 321
+  orig: 331, 321
+  offset: 0, 0
+  index: -1
+Unique/rarm1
+  rotate: false
+  xy: 1753, 1393
+  size: 221, 234
+  orig: 233, 234
+  offset: 0, 0
+  index: -1
+Unique/rarm2
+  rotate: false
+  xy: 273, 29
+  size: 216, 148
+  orig: 216, 148
+  offset: 0, 0
+  index: -1
+Unique/rarm3
+  rotate: true
+  xy: 1638, 1163
+  size: 189, 157
+  orig: 222, 157
+  offset: 0, 0
+  index: -1
